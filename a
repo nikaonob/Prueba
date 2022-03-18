@@ -1,0 +1,36 @@
+[33mcommit ffa6d8cc23348aedd13122aeb726425f4241494f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: dd48a9c ed5313c
+Author: Nikaonob <nikaonob91@gmail.comgit config --global user.email nikaonob91@gmail.com>
+Date:   Thu Mar 17 23:18:49 2022 -0300
+
+    solucione el comflicto
+
+[33mcommit ed5313cfde4a24ebf28b0d4fc465b7d49ff1a741[m[33m ([m[1;32mnuevarama[m[33m)[m
+Author: Nikaonob <nikaonob91@gmail.comgit config --global user.email nikaonob91@gmail.com>
+Date:   Thu Mar 17 23:16:25 2022 -0300
+
+    nomedijo su edad
+
+[33mcommit dd48a9c1cd2f2a4c7d5783f7634c7ea0f0c48d31[m
+Author: Nikaonob <nikaonob91@gmail.comgit config --global user.email nikaonob91@gmail.com>
+Date:   Thu Mar 17 23:15:52 2022 -0300
+
+    la edad de mi madre
+
+[33mcommit c1edd263eb9249b6e30a2d243cbd9b238b259fff[m
+Author: Nikaonob <nikaonob91@gmail.comgit config --global user.email nikaonob91@gmail.com>
+Date:   Thu Mar 17 23:11:36 2022 -0300
+
+    nuevocambio
+
+[33mcommit b107b746d2e512078789e265e45b0f7c9e97b1a4[m
+Author: Nikaonob <nikaonob91@gmail.comgit config --global user.email nikaonob91@gmail.com>
+Date:   Thu Mar 17 23:03:03 2022 -0300
+
+    agregado biografiamadre
+
+[33mcommit 6a778bbca311cd74f9ba78e9b017246c5c39a9bc[m
+Author: Nikaonob <nikaonob91@gmail.comgit config --global user.email nikaonob91@gmail.com>
+Date:   Thu Mar 17 22:40:41 2022 -0300
+
+    autobiografia vacio
