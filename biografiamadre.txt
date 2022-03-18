@@ -3,4 +3,8 @@ decirlo.
 
 este es nu nuevo cambio
 
+<<<<<<< HEAD
 su edad me la dijo es de 50 años
+=======
+no me ha dicho su edad
+>>>>>>> nuevarama
